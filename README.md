@@ -1,5 +1,5 @@
 # -project-nexus-
-This is my first project which is given by "Nexus" during my internship. Below are the details of the project:--
+This is my first project which is given by "Nexus" during my exploring times in Development feild. Below are the details of the project:--
 
 Project Details:
 - Domain: Web Development
