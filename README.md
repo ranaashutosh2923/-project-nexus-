@@ -1,4 +1,3 @@
-# -project-nexus-
 Below are the details of the project:--
 
 Project Details:--
